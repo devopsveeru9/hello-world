@@ -99,8 +99,8 @@
                 <input type="radio" id="gay" class="m0">
                 <label for="gay" class="gender">Gay
                 </label>
-                <input type="radio" id="others" class="m0">
-                <label for="others" class="gender">others
+                <input type="radio" id="NA" class="m0">
+                <label for="NA" class="gender">NA
                 </label>
               </span>
             </div>
