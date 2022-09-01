@@ -97,7 +97,7 @@
                 <label for="male" class="gender">Male
                 </label>
                 <input type="radio" id="gay" class="m0">
-                <label for="gay" class="gender">Male
+                <label for="gay" class="gender">Gay
                 </label>
               </span>
             </div>
