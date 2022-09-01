@@ -99,6 +99,9 @@
                 <input type="radio" id="gay" class="m0">
                 <label for="gay" class="gender">Gay
                 </label>
+                <input type="radio" id="others" class="m0">
+                <label for="others" class="gender">others
+                </label>
               </span>
             </div>
             <div class="formbox">
